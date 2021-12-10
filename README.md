@@ -1,6 +1,6 @@
 ## Hi! I'm Raphael Bertholucci
 
-- 🔭  I’m currently working on C6 Bank
+- 🔭  I’m currently working on Suggestic
 - 🌱  I'm working with Android Development
 - 🤓  I'm learning Flutter
 
